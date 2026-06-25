@@ -1,0 +1,11 @@
+# UI Framework
+gradio>=4.0.0
+
+# HTTP Client for API Communications
+requests>=2.31.0
+
+# Text-to-Speech Engine
+gTTS>=2.4.0
+
+# Environment Variable Management
+python-dotenv>=1.0.0
