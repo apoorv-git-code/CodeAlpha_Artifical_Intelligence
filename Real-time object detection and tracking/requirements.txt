@@ -3,3 +3,6 @@ ultralytics>=8.0.0
 opencv-python>=4.8.0
 
 numpy>=1.24.0
+
+# to run your project (including your grading instructor) can just open their terminal in your project directory and run this single command to install everything at once:
+# pip install -r requirements.txt
