@@ -9,3 +9,6 @@ gTTS>=2.4.0
 
 # Environment Variable Management
 python-dotenv>=1.0.0
+
+# to run my project anyone can just open their terminal in project directory and run this single command to install everything at once:
+# pip install -r requirements.txt
